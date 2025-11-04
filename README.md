@@ -13,11 +13,11 @@
 - 🚀 Desenvolvendo habilidades em Arquitetura de Soluções Cloud
 
 ### Projetos em Andamento
-🚧 Marketing_Campaign_Analysis (Power BI)
+- 🚧 Marketing_Campaign_Analysis (Power BI)
 Desenvolvimento de um dashboard interativo em Power BI para análise de campanhas de marketing com base em dados de clientes. Inclui criação de indicadores de performance (KPIs), segmentação por comportamento de compra, análise de resposta a campanhas e visualizações otimizadas para tomada de decisão.
-🚧 Customer_Cluster_Analysis (Python)
-Projeto de análise de segmentação de clientes utilizando Python (Pandas, Scikit-learn, Matplotlib). Envolve preparação e limpeza de dados, aplicação de algoritmos de clusterização (K-Means), e visualização dos grupos resultantes para apoiar estratégias de marketing direcionadas.
-🚧 Data_Quality_Dashboard (Streamlit + Python)
+- 🚧 Customer_Cluster_Analysis (Python)
+Projeto de análise de segmentação de clientes utilizando Python (Pandas, Scikit-learn, Matplotlib). Envolve preparação e limpeza de dados, aplicação de algoritmos de clusterização (K-Means) e visualização dos grupos resultantes para apoiar estratégias de marketing direcionadas.
+- 🚧 Data_Quality_Dashboard (Streamlit + Python)
 Criação de um dashboard interativo em Streamlit para avaliar a qualidade e governança de um conjunto de dados. Envolve o desenvolvimento de funções em Python (Pandas) para detectar valores faltantes, duplicados e inconsistências, exibindo métricas de "saúde dos dados" (KPIs), alertas visuais e recomendações de ações corretivas.
 
 
@@ -44,11 +44,11 @@ Criação de um dashboard interativo em Streamlit para avaliar a qualidade e gov
 - 🚀 Developing skills in Cloud Solutions Architecture
 
 ### Ongoing Projects
-🚧 Marketing_Campaign_Analysis (Power BI)
-Development of an interactive Power BI dashboard for analyzing marketing campaigns based on customer data. Includes creation of performance indicators (KPIs), behavioral segmentation, campaign response analysis, and optimized visualizations for data-driven decision-making.
-🚧 Customer_Cluster_Analysis (Python)
-Customer segmentation analysis project using Python (Pandas, Scikit-learn, Matplotlib). Involves data preparation and cleaning, application of clustering algorithms (K-Means), and visualization of resulting groups to support targeted marketing strategies.
-🚧 Data_Quality_Dashboard (Streamlit + Python)
+- 🚧 Marketing_Campaign_Analysis (Power BI)
+Development of an interactive Power BI dashboard for analysing marketing campaigns based on customer data. Includes creation of performance indicators (KPIs), behavioural segmentation, campaign response analysis, and optimised visualisations for data-driven decision-making.
+- 🚧 Customer_Cluster_Analysis (Python)
+Customer segmentation analysis project using Python (Pandas, Scikit-learn, Matplotlib). Involves data preparation and cleaning, application of clustering algorithms (K-Means), and visualisation of resulting groups to support targeted marketing strategies.
+- 🚧 Data_Quality_Dashboard (Streamlit + Python)
 Creation of an interactive dashboard in Streamlit to evaluate data quality and governance. Involves developing Python (Pandas) functions to detect missing values, duplicates, and inconsistencies, displaying “data health” metrics (KPIs), visual alerts, and corrective action recommendations.
 
 ### Contact
@@ -56,5 +56,5 @@ Creation of an interactive dashboard in Streamlit to evaluate data quality and g
 - 📱 LinkedIn: https://www.linkedin.com/in/samuelgalvaogomes
 
 ### Contributions
-- 💬 Open to collaborations on projects related to Python, SQL, Data Visualization, and Cloud.
+- 💬 Open to collaborations on projects related to Python, SQL, Data Visualisation, and Cloud.
 - 🤝 Let’s connect to discuss Technology, Law, and beyond!
