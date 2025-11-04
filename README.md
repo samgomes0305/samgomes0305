@@ -3,24 +3,28 @@
 ### Sobre Mim
 - 💻 Estudante de Sistemas de Informação na Universidade Veiga de Almeida
 - 🎓 Pós-graduado em Direito Financeiro e Direito Digital
-- 📈 Cursando Análise de Dados no Senac
+- 📈 Formado Análise de Dados pelo Senac
 
 ### Áreas de Conhecimento
-- 🐍 Python | 📊 SQL | ☁️ Cloud (AWS, Azure) | 📈 PowerBi
+- 🐍 Python | 📊 SQL | ☁️ Cloud (AWS, Azure, GCP) | 📈 PowerBi
 
 ### Interesses Atuais
-- 🌱 Aprendendo e aprimorando habilidades em Ciência de Dados
+- 🌱 Aprimorando habilidades em Ciência de Dados
 - 🚀 Desenvolvendo habilidades em Arquitetura de Soluções Cloud
 
 ### Projetos em Andamento
-- 🚧 Stock_price_prediction_ml: Implementação de um modelo de machine learning para prever preços de ações, usando serviços da AWS como Lambda para atualizações automáticas e S3 para armazenamento de dados históricos.
-- 🚧 Football_player_analysis: Projeto de análise de desempenho de jogadores de futebol, utilizando Pandas para manipulação de dados. Os dados são armazenados no AWS RDS e visualizados em dashboards interativos.
-- 🚧 Product_recommendation_system: Desenvolvimento de um sistema de recomendação para produtos, com a utilização de algoritmos de filtragem colaborativa. A atualização das recomendações é feita através do AWS Lambda.
+- 🚧 Marketing_Campaign_Analysis (Power BI)
+Desenvolvimento de um dashboard interativo em Power BI para análise de campanhas de marketing com base em dados de clientes. Inclui criação de indicadores de performance (KPIs), segmentação por comportamento de compra, análise de resposta a campanhas e visualizações otimizadas para tomada de decisão.
+🚧 Customer_Cluster_Analysis (Python)
+Projeto de análise de segmentação de clientes utilizando Python (Pandas, Scikit-learn, Matplotlib). Envolve preparação e limpeza de dados, aplicação de algoritmos de clusterização (K-Means), e visualização dos grupos resultantes para apoiar estratégias de marketing direcionadas.
+🚧 Data_Quality_Dashboard (Streamlit + Python)
+Criação de um dashboard interativo em Streamlit para avaliar a qualidade e governança de um conjunto de dados. Envolve o desenvolvimento de funções em Python (Pandas) para detectar valores faltantes, duplicados e inconsistências, exibindo métricas de "saúde dos dados" (KPIs), alertas visuais e recomendações de ações corretivas.
+
 
 ### Contato
 - 📧 Email: samuel10.gomes7@gmail.com
 - 📱 LinkedIn: https://www.linkedin.com/in/samuelgalvaogomes
 
 ### Contribuições
-- 💬 Aberto para colaborações em projetos relacionados a Python, SQL e AWS...
+- 💬 Aberto para colaborações em projetos relacionados a Python, SQL, Visualização de Dados e Cloud...
 - 🤝 Conecte-se comigo para discutir sobre Tecnologia, Direito e afins!
