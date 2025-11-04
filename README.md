@@ -3,7 +3,7 @@
 ### Sobre Mim
 - 💻 Estudante de Sistemas de Informação na Universidade Veiga de Almeida
 - 🎓 Pós-graduado em Direito Financeiro e Direito Digital
-- 📈 Formado Análise de Dados pelo Senac
+- 📈 Formado em Análise de Dados pelo Senac
 
 ### Áreas de Conhecimento
 - 🐍 Python | 📊 SQL | ☁️ Cloud (AWS, Azure, GCP) | 📈 PowerBi
